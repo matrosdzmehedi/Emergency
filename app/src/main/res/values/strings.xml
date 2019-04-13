@@ -1,0 +1,25 @@
+<resources>
+
+    <string-array name="header">
+        <item>Emergency</item>
+        <item>Fire Service</item>
+        <item>Police</item>
+        <item>Rab</item>
+        <item>Electricity</item>
+        <item>Gas</item>
+
+    </string-array>
+
+
+        <string-array name="child">
+            <item>mobile: 999</item>
+            <item>mobile: 0173002226</item>
+            <item>mobile: 01713373181</item>
+            <item>mobile: 01747066695</item>
+            <item>mobile: 01234567891</item>
+            <item>mobile: 01234567881</item>
+        </string-array>
+
+
+    <string name="app_name" />
+</resources>
